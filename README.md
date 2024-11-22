@@ -1,4 +1,4 @@
-# Traffic_light_controller_Synthesis
+# Exp-6: Traffic_light_controller_Synthesis
 
 ## Aim:
 
@@ -26,23 +26,29 @@ Synthesis requires three files as follows,
 
 The Liberty files are present in the library path,
 
-• The Available technology nodes are 180nm ,90nm and 45nm.
+* The Available technology nodes are 180nm ,90nm and 45nm.
 
-• In the terminal, initialise the tools with the following commands if a new terminal is being used.
+* In the terminal, initialise the tools with the following commands if a new terminal is being used.
 
 ◦ csh
 
 ◦ source /cadence/install/cshrc
 
-• The tool used for Synthesis is “Genus”. Hence, type “genus -gui” to open the tool.
+* The tool used for Synthesis is “Genus”. Hence, type “genus -gui” to open the tool.
 
-• Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
+* Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
 
 Synthesis RTL Schematic :
 
+![Screenshot (60)](https://github.com/user-attachments/assets/7af40f37-c6bc-422b-97c8-8a75f75b5f71)
+
 Area report:
 
+![Screenshot (61)](https://github.com/user-attachments/assets/7c4468c5-78fc-4c68-8691-5957a6d3882a)
+
 Power Report:
+
+![Screenshot (62)](https://github.com/user-attachments/assets/9a1cbf09-dbdb-4880-8fa8-5411a81e2f6b)
 
 Result:
 
